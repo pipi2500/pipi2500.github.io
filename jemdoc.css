@@ -341,11 +341,13 @@ table {
 }
 
 td {
-    padding: 2px;
-    padding-left: 0.5em;
-    padding-right: 0.5em;
-    text-align: center;
-    border: 1px solid gray;
+	padding: 2px;
+	padding-left: 0.5em;
+	padding-right: 0.5em;
+	text-align: center;
+	border: 2px solid gray;
+	vertical-align: middle;
+	border-bottom: 2px solid gray;
 }
 
 table + table {
